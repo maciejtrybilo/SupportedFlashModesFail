@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SupportedFlashModesFail: 1681259d7cc13274f4dc9bb0c771a4593fd302b9
+  SupportedFlashModesFail: a205dcc9a38bb48231686eba17a5176212f0f084
 
 PODFILE CHECKSUM: fc1c5c3311c47c32cc7490f1a7a861cae7a23a9b
 

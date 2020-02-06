@@ -33,6 +33,11 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'SupportedFlashModesFail/Classes/**/*'
   
+  s.test_spec 'Tests' do |test_spec|
+    test_spec.source_files = 'SupportedFlashModesFail/Tests/*.swift'
+    test_spec.requires_app_host = true
+  end
+  
   # s.resource_bundles = {
   #   'SupportedFlashModesFail' => ['SupportedFlashModesFail/Assets/*.png']
   # }

@@ -20,5 +20,13 @@
     "ios": "10.0"
   },
   "source_files": "SupportedFlashModesFail/Classes/**/*",
+  "testspecs": [
+    {
+      "name": "Tests",
+      "test_type": "unit",
+      "source_files": "SupportedFlashModesFail/Tests/*.swift",
+      "requires_app_host": true
+    }
+  ],
   "swift_version": "5.1"
 }
