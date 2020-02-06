@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SupportedFlashModesFail_Example' do
+  pod 'SupportedFlashModesFail', :path => '../'
+
+  target 'SupportedFlashModesFail_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
