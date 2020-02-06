@@ -15,8 +15,10 @@
     "git": "https://github.com/maciejtrybilo/SupportedFlashModesFail.git",
     "tag": "0.1.0"
   },
+  "swift_versions": "5.1",
   "platforms": {
-    "ios": "8.0"
+    "ios": "10.0"
   },
-  "source_files": "SupportedFlashModesFail/Classes/**/*"
+  "source_files": "SupportedFlashModesFail/Classes/**/*",
+  "swift_version": "5.1"
 }
