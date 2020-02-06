@@ -1,0 +1,16 @@
+PODS:
+  - SupportedFlashModesFail (0.1.0)
+
+DEPENDENCIES:
+  - SupportedFlashModesFail (from `../`)
+
+EXTERNAL SOURCES:
+  SupportedFlashModesFail:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SupportedFlashModesFail: af8a235f7ebfdeb6f1e38c56b5b4b9888047fd10
+
+PODFILE CHECKSUM: fc1c5c3311c47c32cc7490f1a7a861cae7a23a9b
+
+COCOAPODS: 1.8.4

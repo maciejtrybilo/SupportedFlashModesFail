@@ -1,0 +1,6 @@
+framework module SupportedFlashModesFail {
+  umbrella header "SupportedFlashModesFail-umbrella.h"
+
+  export *
+  module * { export * }
+}
